@@ -1,4 +1,4 @@
-package brice.jenkins.com.jenkins;
+package jenkins.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

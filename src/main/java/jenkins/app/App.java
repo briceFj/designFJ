@@ -1,4 +1,4 @@
-package brice.jenkins.com.jenkins;
+package jenkins.app;
 
 /**
  * Hello world!
